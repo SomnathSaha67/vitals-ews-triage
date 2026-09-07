@@ -1,0 +1,28 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Tool and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local output files
+output/
+*.log
+*.out
+
+# Generated risk reports
+outputs/
